@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hey there, I'm Daren Palmer and this is my todo list (I know it's huge)! 
 
-<!--
-**ColleSerre/ColleSerre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. API that allows you to find out what apps
+/social media know about you (possible integration in-app) => became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put highest ranking in green, lowest in red and leave the rest in blue)
 
-Here are some ideas to get you started:
+2. Investigate a site that could remove you from all social media (possible improvement for PrivacyApp) => not feasible as people wouldn't give their social media creds / register all delete account pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. Investigate a script to automate bear exports and git commits/pulls
+
+4. Write a battery level app using ubersicht and Web Bluetooth for macOS (not possible using Web Bluetooth as earphones aren't BLE) 
+
+5. "message in a bottle" for Twitter => done but not published
+
+6. Buy NFC tag and store resume/blog/portfolio on it 
+
+7. "no one/someone with a bangle js has been here" app for my watch
+
+8. An app that locates nearby thrift shops
+
+9. DIY Google pay client for my watch?
+
+10. Write a local website using the archillect API and the useless monitor
+
+11. Scrape videos of art to display on the useless monitor.
+
+12. A search bar on the desktop to play music on Spotify // more time needed
+
+13. Waterproof karaoke screen for the shower
+
+14. A screen that displays info on my bedroom window
+
+15. a web interface for Pass CLI
+
+16. Reminder app for Instagram 
+
+17. Generating synthwave music using markov chain analysis
+
+18. Image enhancer with ML
+
+19. App pour localiser les associations 
+
+20. Site qui joue une musique à une heure précise (pour le nouvel an)
