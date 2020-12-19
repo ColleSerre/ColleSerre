@@ -1,5 +1,10 @@
 # Hey there, I'm Daren Palmer and this is my todo list (I know it's huge)! 
 
+HIGH PRIORITY:
+
+* An NFC/RFID jukebox . You choose your music by taping a device on the box.
+
+
 1. API that allows you to find out what apps
 /social media know about you (possible integration in-app) => became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put highest ranking in green, lowest in red and leave the rest in blue)
 
