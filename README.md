@@ -3,7 +3,6 @@
 HIGH PRIORITY:
 
 * An NFC/RFID jukebox . You choose your music by taping a device on the box.
-* A website that can use Instagram's API to graph out every mutual friendship
 
 STANDARD PRIORITY:
 
@@ -45,5 +44,7 @@ STANDARD PRIORITY:
 18. Image enhancer with ML
 
 19. App pour localiser les associations 
+
+20. A website that can use Instagram's API to graph out every mutual friendship (not really possible since Instagram's API requires auth to access user's subs)
 
 20. Site qui joue une musique à une heure précise (pour le nouvel an)
