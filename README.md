@@ -3,6 +3,7 @@
 HIGH PRIORITY:
 
 * An NFC/RFID jukebox . You choose your music by taping a device on the box.
+* A website that can use Instagram's API to graph out every mutual friendship
 
 STANDARD PRIORITY:
 
