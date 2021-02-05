@@ -2,7 +2,7 @@
 
 HIGH PRIORITY:
 
-* An NFC/RFID jukebox . You choose your music by taping a device on the box.
+* News API powered app iOS (ended up being flutter because fuck swift) 
 
 STANDARD PRIORITY:
 
@@ -48,3 +48,9 @@ STANDARD PRIORITY:
 20. A website that can use Instagram's API to graph out every mutual friendship (not really possible since Instagram's API requires auth to access user's subs)
 
 20. Site qui joue une musique à une heure précise (pour le nouvel an)
+
+21. An NFC/RFID jukebox . You choose your music by taping a device on the box.
+
+22. Bot Twitter qui vérifie les infos (recherches à faire sur les méthodes utilisées par les journalistes)
+
+23. Program that can determine formulas based on output and parameters using ai
