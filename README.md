@@ -3,6 +3,7 @@
 HIGH PRIORITY:
 
 * News API powered app iOS (ended up being flutter because fuck swift) 
+* Spotify API powered flutter app so I can use the bloody swipe to queue on my oneplus (seriously spotify why am I the one doing this ???)
 
 STANDARD PRIORITY:
 
