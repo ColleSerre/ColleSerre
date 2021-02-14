@@ -4,6 +4,7 @@ HIGH PRIORITY:
 
 * News API powered app iOS (ended up being flutter because fuck swift) 
 * Spotify API powered flutter app so I can use the bloody swipe to queue on my oneplus (seriously spotify why am I the one doing this ???)
+* Cross platflorm Markdown editor using Flutter
 
 STANDARD PRIORITY:
 
@@ -55,3 +56,5 @@ STANDARD PRIORITY:
 22. Bot Twitter qui vérifie les infos (recherches à faire sur les méthodes utilisées par les journalistes)
 
 23. Program that can determine formulas based on output and parameters using ai
+
+24. Create a program to sync my github description and google keep note.
