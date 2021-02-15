@@ -1,5 +1,4 @@
-# Hey there, I'm Daren Palmer and this is my todo list (I know it's huge)! 
-
+# Software ideas
 HIGH PRIORITY:
 
 * News API powered app iOS (ended up being flutter because fuck swift) 
