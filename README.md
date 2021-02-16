@@ -3,7 +3,7 @@ HIGH PRIORITY:
 
 * News API powered app iOS (ended up being flutter because fuck swift) 
 * Spotify API powered flutter app so I can use the bloody swipe to queue on my oneplus (seriously spotify why am I the one doing this ???)
-* Cross platflorm Markdown editor using Flutter
+* Cross platform Markdown editor using Flutter
 
 STANDARD PRIORITY:
 
@@ -56,4 +56,6 @@ STANDARD PRIORITY:
 
 23. Program that can determine formulas based on output and parameters using ai
 
-24. Create a program to sync my github description and google keep note.
+24. Create a program to sync my github description and google keep note. (done and automated using Apple Automator and a calendar event)
+
+25. Develop a service that you can integrate to websites to mine crypto off clients (piracy/is this even legal?)
