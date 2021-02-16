@@ -58,4 +58,4 @@ STANDARD PRIORITY:
 
 24. Create a program to sync my github description and google keep note. (done and automated using Apple Automator and a calendar event)
 
-25. Develop a service that you can integrate to websites to mine crypto off clients (piracy/is this even legal?)
+25. Develop a service that you can integrate to websites to mine crypto off clients (piracy/is this even legal?). The users would be fully aware of this and it would replace ads. Give a share to website and a share to the user
