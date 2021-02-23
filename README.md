@@ -2,13 +2,16 @@
 HIGH PRIORITY:
 
 * News API powered app iOS (ended up being flutter because fuck swift) 
-* Spotify API powered flutter app so I can use the bloody swipe to queue on my oneplus (seriously spotify why am I the one doing this ???)
-* Cross platform Markdown editor using Flutter
+* Spotify API powered flutter app so I can use the bloody swipe to queue on my OnePlus (seriously Spotify why am I the one doing this ???)
+* Cross platform Markdown editor using Flutter (or SPA using svelte) 
+* Find a project to do in Svelte/Sapper to try out my full stack Web dev skills 
+* Reverse engineer the Xiaomi home app to use the private API (possible svelte project) 
+* Learn Typescript and brainstorm VS Code extensions ideas
 
 STANDARD PRIORITY:
 
 1. API that allows you to find out what apps
-/social media know about you (possible integration in-app) => became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put highest ranking in green, lowest in red and leave the rest in blue)
+/social media know about you (possible integration in-app) → became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put the highest ranking in green, lowest in red and leave the rest in blue)
 
 2. Investigate a site that could remove you from all social media (possible improvement for PrivacyApp) => not feasible as people wouldn't give their social media creds / register all delete account pages
 
