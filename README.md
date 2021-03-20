@@ -1,12 +1,12 @@
-# Software ideas
-HIGH PRIORITY:
+# Software Ideas
+
+## HIGH PRIORITY:
 
 * Make a clubhouse clone with limited time (pitch: If you had 60 seconds to talk with a random person, what would you say ?). Tech ? Flutter + Firebase probs, love me some of that sweet FLUF stack.
 * News API powered app iOS (ended up being flutter because fuck swift ; basically done, moving onto something more interesting now)  ✔️
-* Spotify API powered flutter app, so I can use the bloody swipe to queue on my OnePlus (seriously Spotify why am I the one doing this ???)
 * Reverse engineer the Xiaomi home app to use the private API (use home assistant?) 
 
-STANDARD PRIORITY:
+##STANDARD/LOW PRIORITY:
 
 1. API that allows you to find out what apps
 /social media know about you (possible integration in-app) → became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put the highest ranking in green, lowest in red and leave the rest in blue) ✔️
@@ -56,3 +56,7 @@ STANDARD PRIORITY:
 23. Create a program to sync my github description and google keep note. (done and automated using Apple Automator and a calendar event) ✔️
 
 24. Develop a service that you can integrate to websites to mine crypto off clients (piracy/is this even legal?). The users would be fully aware of this and it would replace ads. Give a share to website and a share to the user. After some market research, this already exists (what innovations are possible?)
+
+25. Investigate hill climbing algorithm
+
+26. Spotify API powered flutter app, so I can use the bloody swipe to queue on my OnePlus (seriously Spotify why am I the one doing this ???)
