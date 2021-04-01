@@ -1,15 +1,16 @@
-# Software Ideas
+# Software ideas
+# Software ideas
 
-## HIGH PRIORITY:
+HIGH PRIORITY:
 
-* Make a clubhouse clone with limited time (pitch: If you had 60 seconds to talk with a random person, what would you say ?). Tech ? Flutter + Firebase probs, love me some of that sweet FLUF stack.
+* Make a clubhouse clone with limited time (pitch: If you had 60 seconds to talk with a random person, what would you say ?). Tech ? Flutter + Firebase probs, love me some of that sweet FLUF stack. Gazeless would be a cool name? 
 * News API powered app iOS (ended up being flutter because fuck swift ; basically done, moving onto something more interesting now)  ✔️
 * Reverse engineer the Xiaomi home app to use the private API (use home assistant?) 
 
-##STANDARD/LOW PRIORITY:
+STANDARD PRIORITY:
 
 1. API that allows you to find out what apps
-/social media know about you (possible integration in-app) → became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put the highest ranking in green, lowest in red and leave the rest in blue) ✔️
+/social media know about you (possible integration in-app) → became PrivacyApp (https://www.my-privacy.online); add colours to differentiate services on result screen (put the highest ranking in green, lowest in red and leave the rest in blue) ✔️
 
 2. Investigate a site that could remove you from all social media (possible improvement for PrivacyApp) => not feasible as people wouldn't give their social media creds / register all delete account pages
 
@@ -17,11 +18,11 @@
 
 4. Write a battery level app using ubersicht and Web Bluetooth for macOS (not possible using Web Bluetooth as earphones aren't BLE) 
 
-5. "message in a bottle" for Twitter => done but not published ✔️
+5. message in a bottle for Twitter => done but not published ✔️
 
 6. Buy NFC tag and store resume/blog/portfolio on it ✔️
 
-7. "no one/someone with a bangle js has been here" app for my watch
+7. no one/someone with a bangle js has been here app for my watch
 
 8. An app that locates nearby thrift shops (will get popular with tiktok white girls)
 
@@ -57,6 +58,16 @@
 
 24. Develop a service that you can integrate to websites to mine crypto off clients (piracy/is this even legal?). The users would be fully aware of this and it would replace ads. Give a share to website and a share to the user. After some market research, this already exists (what innovations are possible?)
 
-25. Investigate hill climbing algorithm
+25. Investigate hill climbing algorithms
 
 26. Spotify API powered flutter app, so I can use the bloody swipe to queue on my OnePlus (seriously Spotify why am I the one doing this ???)
+
+27. Create a variation of Conway's game of life that uses Reinforcement learning
+
+28. Create an algorithm that creates art based on numbers and iterations
+
+30. Solve the convex hull problem
+
+31. Create my very own personal assistant that listens constantly for commands
+
+32. Rewrite note syncing program on raspberry pi and automate syncing to github
