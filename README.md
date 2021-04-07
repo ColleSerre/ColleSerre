@@ -70,4 +70,8 @@ STANDARD PRIORITY:
 
 31. Create my very own personal assistant that listens constantly for commands
 
-32. Rewrite note syncing program on raspberry pi and automate syncing to github
+32. Rewrite note syncing script on raspberry pi and automate syncing to github
+
+33. Make a physical switch for my smart bulbs
+
+34. Build a key press recognition algorithm using computer vision to make my keyboard wireless
