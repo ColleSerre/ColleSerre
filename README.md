@@ -26,7 +26,7 @@ STANDARD PRIORITY:
 
 8. An app that locates nearby thrift shops (will get popular with tiktok white girls)
 
-9. DIY Google pay client for my watch? (forwarding transactions to another entity then automating another bank account, it's a hassle?)
+9. DIY Google pay client for my watch? (forwarding transactions to another entity then automating another bank account, it's a hassle?) [NOT POSSIBLE] (https://www.quora.com/How-do-I-create-an-NFC-pay-tag-with-my-credit-card-details) 
 
 10. Write a local website using the archillect API and the useless monitor ✔️
 
@@ -38,7 +38,7 @@ STANDARD PRIORITY:
 
 14. A screen that displays info on my bedroom window
 
-15. Reminder app for Instagram 
+15. Reminder bot for Instagram 
 
 16. Generating synthwave music using markov chain analysis
 
@@ -75,3 +75,7 @@ STANDARD PRIORITY:
 33. Make a physical switch for my smart bulbs
 
 34. Build a key press recognition algorithm using computer vision to make my keyboard wireless
+
+35. Build a Google Keep JS API
+
+36. Learn OSINT
