@@ -1,4 +1,4 @@
-# Software ideas
+# Software ideas / To-do list
 # Software ideas
 
 HIGH PRIORITY:
@@ -79,3 +79,5 @@ STANDARD PRIORITY:
 35. Build a Google Keep JS API
 
 36. Learn OSINT
+
+37. Learn how to test widgets programmatically in Flutter
