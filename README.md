@@ -3,9 +3,7 @@
 
 HIGH PRIORITY:
 
-* Make a clubhouse clone with limited time (pitch: If you had 60 seconds to talk with a random person, what would you say ?). Tech ? Flutter + Firebase probs, love me some of that sweet FLUF stack. Gazeless would be a cool name? 
-* News API powered app iOS (ended up being flutter because fuck swift ; basically done, moving onto something more interesting now)  ✅
-* Reverse engineer the Xiaomi home app to use the private API (use home assistant?) 
+* Make a clubhouse clone with limited time (pitch: If you had 12 minutes to talk with a random person, what would you say ?). Tech ? Flutter + Firebase probs, love me some of that sweet FLUF stack. Gazeless would be a cool name? 
 
 STANDARD PRIORITY:
 
@@ -74,10 +72,18 @@ STANDARD PRIORITY:
 
 33. Make a physical switch for my smart bulbs
 
-34. Build a key press recognition algorithm using computer vision to make my keyboard wireless
+34. Build a key press recognition algorithm using computer vision to make my keyboard wireless (let’s learn opencv)
 
 35. Build a Google Keep JS API
 
 36. Learn OSINT
 
 37. Learn how to test widgets programmatically in Flutter
+
+38. An app that would let you swipe on emails like tinder (to avoid email bloat)
+
+39. Use a text summarizing algorithm to create an app that presents easily readable versions of plato.stanford.edu
+
+40. Reverse engineer the Xiaomi home app to use the private API (use home assistant?) 
+
+41. News API powered app iOS (ended up being flutter because fuck swift ; basically done, moving onto something more interesting now)  ✅
