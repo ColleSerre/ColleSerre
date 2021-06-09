@@ -87,3 +87,5 @@ STANDARD PRIORITY:
 40. Reverse engineer the Xiaomi home app to use the private API (use home assistant?) 
 
 41. News API powered app iOS (ended up being flutter because fuck swift ; basically done, moving onto something more interesting now)  ✅
+
+42. Setup airplay for my google home using AirConnect
