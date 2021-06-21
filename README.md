@@ -89,3 +89,7 @@ STANDARD PRIORITY:
 41. News API powered app iOS (ended up being flutter because fuck swift ; basically done, moving onto something more interesting now)  ✅
 
 42. Setup airplay for my google home using AirConnect
+
+43. Fake news detector python
+
+44. Chrome extension that graphs your focus on a tab (anti procrastination)
