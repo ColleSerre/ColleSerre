@@ -3,7 +3,7 @@
 
 HIGH PRIORITY:
 
-* Make a clubhouse clone with limited time (pitch: If you had 12 minutes to talk with a random person, what would you say ?). Tech ? Flutter + Firebase probs, love me some of that sweet FLUF stack. Gazeless would be a cool name? 
+* Make a clubhouse clone with limited time (pitch: If you had 12 minutes to talk with a random person, what would you say ?). Gazeless would be a cool name? 
 
 STANDARD PRIORITY:
 
