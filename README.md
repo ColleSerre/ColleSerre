@@ -1,14 +1,18 @@
-# Software ideas / To-do list
-# Software ideas
+Software ideas
 
 HIGH PRIORITY:
 
 * Make a clubhouse clone with limited time (pitch: If you had 12 minutes to talk with a random person, what would you say ?). Gazeless would be a cool name? 
 
-STANDARD PRIORITY:
+UP NEXT:
+
+* An app that would let you swipe on emails like tinder (to avoid email bloat)
+* An app (mobile and web) that allow you to see the current lawsuits and controversies a brand is going through. (who would update the status ? Maybe a suggestions feature with proof that is human validated after submission). Follow The Trail is an ok name. Design is being prototyped
+
+IDEAS:
 
 1. API that allows you to find out what apps
-/social media know about you (possible integration in-app) → became PrivacyApp (https://www.my-privacy.online); add colours to differentiate services on result screen (put the highest ranking in green, lowest in red and leave the rest in blue) ✅
+/social media know about you (possible integration in-app) → became PrivacyApp ("https://www.my-privacy.online"); add colours to differentiate services on result screen (put the highest ranking in green, lowest in red and leave the rest in blue) ✅
 
 2. Investigate a site that could remove you from all social media (possible improvement for PrivacyApp) => not feasible as people wouldn't give their social media creds / register all delete account pages ❌
 
@@ -16,21 +20,21 @@ STANDARD PRIORITY:
 
 4. Write a battery level app using ubersicht and Web Bluetooth for macOS (not possible using Web Bluetooth as earphones aren't BLE) 
 
-5. message in a bottle for Twitter => done but not published ✅
+5. "message in a bottle" for Twitter => done but not published ✅
 
 6. Buy NFC tag and store resume/blog/portfolio on it ✅
 
-7. no one/someone with a bangle js has been here app for my watch
+7. "no one/someone with a bangle js has been here" app for my watch
 
 8. An app that locates nearby thrift shops (will get popular with tiktok white girls)
 
 9. DIY Google pay client for my watch? (forwarding transactions to another entity then automating another bank account, it's a hassle?) [NOT POSSIBLE] (https://www.quora.com/How-do-I-create-an-NFC-pay-tag-with-my-credit-card-details) ❌
 
-10. Write a local website using the archillect API and the useless monitor ✅
+10. Write a local website using the archillect API and my useless monitor ✅
 
 11. Scrape videos of art to display on the useless monitor. ✅
 
-12. A search bar for desktop to play music on Spotify // more time needed
+12. A search bar for desktop to play music on Spotify (macOS widget)
 
 13. Waterproof karaoke screen for my shower
 
@@ -93,3 +97,5 @@ STANDARD PRIORITY:
 43. Fake news detector python
 
 44. Chrome extension that graphs your focus on a tab (anti procrastination)
+
+45. Make my own GoogleDrive alternative
