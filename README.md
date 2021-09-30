@@ -94,7 +94,7 @@ IDEAS:
 
 42. Setup airplay for my google home using AirConnect
 
-43. Fake news detector python
+43. Fake news detector python (works like dog shit. Need to research how it actually works) ✅
 
 44. Chrome extension that graphs your focus on a tab (anti procrastination)
 
